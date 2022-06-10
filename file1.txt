@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m  "task2"
+git remote add origin git@github.com:Ayman-aloub/aymantarekrepo.git
+git remote -v
+git push origin main
